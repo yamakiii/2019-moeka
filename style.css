@@ -9,7 +9,7 @@ body{
   width:200px;
   height:200px;
   border-radius: 50%;
-  background:#EF454A;
+  background:#A0522D;
   text-align: center;
   line-height:200px;
   color:#fff;
@@ -17,8 +17,8 @@ body{
   font-weight: bold;
   cursor:pointer;
   opacity:0.9;
-  box-shadow:0 10px 0 #D1483E;
-  border:3px solid #D1483E;
+  box-shadow:0 10px 0 #8B4513;
+  border:3px solid #8B4513;
   user-select: none;
 }
 
