@@ -1,14 +1,13 @@
 @charset "utf-8";
 
 body{
-  background-color: #efefef;
+  background-color:#ffffdd;
 }
 
 #btn{
   margin:30px auto;
-  width:200px;
+  width:500px;
   height:200px;
-  border-radius: 50%;
   background:#A0522D;
   text-align: center;
   line-height:200px;

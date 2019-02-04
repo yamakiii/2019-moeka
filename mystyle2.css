@@ -1,15 +1,21 @@
-h1{color:#000080;
+
+body{
+  background-color:#ffffdd;
+}
+
+h1{color:#8B4513;
 
 width:1300px;
 
 height: 100px;
 
-text-align: center;
+text-align: left;
 
 font-weight: bold;
 
-border: double 6px aliceblue;
+border: double 6px sienna;
 
 font-size:36pt;
 
 }
+
